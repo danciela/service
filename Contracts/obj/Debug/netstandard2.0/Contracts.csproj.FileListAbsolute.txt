@@ -1,0 +1,12 @@
+C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.pdb
+C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Entities.dll
+C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Entities.pdb
+C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Entities.dll
+C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Entities.pdb
