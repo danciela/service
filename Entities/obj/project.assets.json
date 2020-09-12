@@ -1341,19 +1341,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danijela.milic\\.nuget\\packages\\": {}
+    "C:\\Users\\Danijela\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\obj\\",
+      "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+      "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

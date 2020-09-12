@@ -12,3 +12,17 @@ C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\Log
 C:\tmp\dev\dSource_solution\Solution1\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb
 C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Entities.dll
 C:\tmp\dev\dSource_solution\Solution1\LoggerService\bin\Debug\netstandard2.0\Entities.pdb
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\Entities.dll
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+D:\dSource\dev\dSourcePlaner\service\LoggerService\bin\Debug\netstandard2.0\Entities.pdb
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+D:\dSource\dev\dSourcePlaner\service\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb

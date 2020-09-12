@@ -1456,19 +1456,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danijela.milic\\.nuget\\packages\\": {}
+    "C:\\Users\\Danijela\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj",
-      "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\obj\\",
+      "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj",
+      "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+      "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1481,8 +1485,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj"
+            "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contrac
 C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Entities.dll
 C:\tmp\dev\dSource_solution\Solution1\Contracts\bin\Debug\netstandard2.0\Entities.pdb
 C:\tmp\dev\dSource_solution\Solution1\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete
+D:\dSource\dev\dSourcePlaner\service\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+D:\dSource\dev\dSourcePlaner\service\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+D:\dSource\dev\dSourcePlaner\service\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+D:\dSource\dev\dSourcePlaner\service\Contracts\bin\Debug\netstandard2.0\Entities.dll
+D:\dSource\dev\dSourcePlaner\service\Contracts\bin\Debug\netstandard2.0\Entities.pdb
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+D:\dSource\dev\dSourcePlaner\service\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

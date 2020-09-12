@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj": {}
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj": {}
   },
   "projects": {
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj": {
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\obj\\",
+        "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+        "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj"
               }
             }
           }
@@ -63,17 +66,20 @@
         }
       }
     },
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj": {
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj",
+        "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj",
         "projectName": "dSourcePlanerSrv",
-        "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj",
-        "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\dSourcePlanerSrv\\obj\\",
+        "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\dSourcePlanerSrv\\dSourcePlanerSrv.csproj",
+        "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+        "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\dSourcePlanerSrv\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,11 +92,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj"
               },
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\Repository.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\Repository.csproj"
               }
             }
           }
@@ -131,17 +137,20 @@
         }
       }
     },
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj": {
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\obj\\",
+        "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+        "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -202,17 +211,20 @@
         }
       }
     },
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj": {
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\LoggerService\\obj\\",
+        "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+        "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,8 +237,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -265,17 +277,20 @@
         }
       }
     },
-    "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\Repository.csproj": {
+    "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\danijela.milic\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Repository\\obj\\",
+        "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Danijela\\.nuget\\packages\\",
+        "outputPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\danijela.milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Danijela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,11 +303,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Contracts\\Contracts.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Contracts\\Contracts.csproj"
               },
-              "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\tmp\\dev\\dSource_solution\\Solution1\\Entities\\Entities.csproj"
+              "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\dSource\\dev\\dSourcePlaner\\service\\Entities\\Entities.csproj"
               }
             }
           }
